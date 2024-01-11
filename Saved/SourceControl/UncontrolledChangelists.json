@@ -5,14 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gamer/Documents/GitHub/AncientElementalThelastSyncro/AncientElemental/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/gamer/Documents/GitHub/AncientElementalThelastSyncro/AncientElemental/Content/J64d/sloth.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Wall/PedraS_Lp_1.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Wall/PedraS_Lp_1_defaultMat_006_BaseColor.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Wall/PedraS_Lp_1_defaultMat_006_Normal.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Wall/PedraS_Lp_1_defaultMat_006_OcclusionRoughnessMetallic.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Material/BaseMaterial.uasset",
 				"D:/AncientElementalThelastSyncro/Content/Assets/Wall/Wall.uasset",
-				"D:/AncientElementalThelastSyncro/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/JH/OWC9VSTWU5OXN3SYQREUDF.uasset",
-				"C:/Users/gamer/Documents/GitHub/AncientElementalThelastSyncro/AncientElemental/Content/StarterContent/Audio/Collapse01.uasset"
+				"D:/AncientElementalThelastSyncro/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/JH/OWC9VSTWU5OXN3SYQREUDF.uasset"
 			]
 		}
 	]
